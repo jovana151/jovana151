@@ -2,6 +2,8 @@
 
 ### AI Virtual Assistant | Excel & Business Support | Aspiring Data Analyst
 
+I enjoy turning unorganized information into structured systems that help businesses work more efficiently.
+
 ## About Me
 
 I'm a Business Administration student interested in helping businesses organize their data, improve daily operations, and make better decisions using technology and data-driven solutions.
