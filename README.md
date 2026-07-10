@@ -49,6 +49,9 @@ Excel-based project focused on cleaning, validating, and analyzing cosmetics sal
 - Business Analysis
 - Dashboard Design
 
+https://github.com/jovana151/cosmetics-sales-data-cleaning-analysis
+
+
 ---
 
 ### Aura Accessories Business Report & Tracker
