@@ -70,3 +70,4 @@ Excel-based business tracking system designed to organize sales data, track expe
 
 - GitHub: ((https://github.com/jovana151))
 - Fiverr: ((https://www.fiverr.com/jovana1151))
+- Email:  ((jovanaaasafa@gmail.com))
