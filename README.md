@@ -34,7 +34,7 @@ I'm continuously building my skills in Data Analytics, automation, and business 
 - Microsoft Excel
 - GitHub
 - Visual Studio Code
-
+  
   ## Projects
 
 ### Cosmetics Sales Data Cleaning & Analysis
